@@ -10,4 +10,4 @@ Cording -: Package(CXL10, CXL31), large number of parameters(CXL7, CXL22)  ,Sing
 Server Configuration -:CXL35, CXL36, CXL37, CXL38, CXL39, CXL40, CXL41, CXL42, CXL43, CXL44, CXL45, CXL46, CXL47, CXL48
 
 
-Deployment -: CXL1, CXL3
+Deployment -: CXL1, CXL3 sdgdggdfgg
