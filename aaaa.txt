@@ -1,0 +1,13 @@
+Affuse  -: UserSecurityAdvice(CXL14, CXL26)
+
+Unit Testing -: CXL5, CXL6
+
+
+Cording -: Package(CXL10, CXL31), large number of parameters(CXL7, CXL22)  ,Singleton(CXL8, CXL27)  
+          Duplicate And without reuse(CXL11,CXL16, CXL19, CXL28),    Developer guidelines(CXL17, CXL21)
+
+
+Server Configuration -:CXL35, CXL36, CXL37, CXL38, CXL39, CXL40, CXL41, CXL42, CXL43, CXL44, CXL45, CXL46, CXL47, CXL48
+
+
+Deployment -: CXL1, CXL3
